@@ -553,6 +553,7 @@ pre code {
   margin-left: auto;
 }
 
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -5088,6 +5089,14 @@ a.badge-dark:focus, a.badge-dark.focus {
   margin-bottom: 2rem;
   background-color: #e9ecef;
   border-radius: 0.3rem;
+}
+
+.jumbotron h1{
+  text-align: center;
+}
+
+.jumbotron p{
+  text-align:center;
 }
 
 @media (min-width: 576px) {
